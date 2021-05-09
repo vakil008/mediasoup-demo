@@ -6,6 +6,7 @@ import * as appPropTypes from './appPropTypes';
 import { Appear } from './transitions';
 import Peer from './Peer';
 
+
 const Peers = ({ peers, activeSpeakerId }) =>
 {
 	return (
